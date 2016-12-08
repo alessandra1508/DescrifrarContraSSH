@@ -1,0 +1,2 @@
+﻿  ssh_login.c
+c:\users\alefr\documents\alessandra\msicu\3semestre\fundamentos de seguridad\ssh_login\include\winsock2.h(22): fatal error C1083: No se puede abrir el archivo incluir: 'windows.h': No such file or directory
